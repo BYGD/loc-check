@@ -8,7 +8,7 @@ https://www.idonglei.com/post/612.html
 
 
 
-## 小鸡定时获取hostloc积分
+## 简易教程
 
 github action大规模失效，mjj平均一人10鸡，以下可以部署到自己的小鸡上
 
