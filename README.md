@@ -1,7 +1,8 @@
 # loc-check
  hostloc.com签到Python版，添加server酱推送，每日领取20分
 
-
+宝塔部署Hostloc论坛自动签到Python脚本（增加server酱推送）图文教程：
+https://www.idonglei.com/post/612.html 
 
 
 
@@ -85,3 +86,4 @@ HOSTLOC_PASSWORD=password1,password2...
 ## Credits
 原作者：https://github.com/Jox2018/hostloc_getPoints
 在原作者基础上增加了serverChan推送功能
+fork自：https://github.com/DocWho22/hostloc_getPoints
